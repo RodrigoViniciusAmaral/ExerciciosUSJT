@@ -2,7 +2,7 @@
 package com.mycompany.lista02;
 
 /* @author rodrigo_vinicius_amaral */
-public class Lista02 {
+public class Lista02_descricao_exercicios {
 
     public static void main(String[] args) {
         System.out.println("Olá Mundo!");
