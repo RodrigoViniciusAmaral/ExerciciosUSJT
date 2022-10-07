@@ -3,7 +3,7 @@ import javax.swing.JOptionPane;
 
 /* @author rodrigo_vinicius_amaral */
 public class exec01 {
-     public static void main(String[] args) {
+    public static void main(String[] args) {
         Double v1 = Double.parseDouble(JOptionPane.showInputDialog("Digite o Primeiro valor: "));
         Double v2 = Double.parseDouble(JOptionPane.showInputDialog("Digite o Segundo valor: "));
         Double v3 = Double.parseDouble(JOptionPane.showInputDialog("Digite o Terceiro valor: "));

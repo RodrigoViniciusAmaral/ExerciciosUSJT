@@ -3,7 +3,7 @@ import javax.swing.JOptionPane;
 
 /* @author rodrigo_vinicius_amaral */
 public class exec04 {
-     public static void main(String[] args) {
+    public static void main(String[] args) {
         Double salario = Double.parseDouble(JOptionPane.showInputDialog("Digite seu salário: "));
         double gratificacao = salario * 0.05;
         double impostos = salario * 0.07;
