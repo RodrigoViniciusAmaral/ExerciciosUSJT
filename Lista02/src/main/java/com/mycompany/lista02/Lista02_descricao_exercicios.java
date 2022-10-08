@@ -2,7 +2,7 @@
 package com.mycompany.lista02;
 
 /* @author rodrigo_vinicius_amaral */
-public class Lista02_descricao_exercicios {
+public class Lista02 {
 
     public static void main(String[] args) {
         System.out.println("Olá Mundo!");
@@ -38,11 +38,6 @@ public class Lista02_descricao_exercicios {
         • 4 ≤ 𝑀é𝑑𝑖𝑎 𝑓𝑖𝑛𝑎𝑙 < 6, 𝑒𝑥𝑎𝑚𝑒
         • 0 ≤ 𝑀é𝑑𝑖𝑎 𝑓𝑖𝑛𝑎𝑙 < 4, 𝑟𝑒𝑝𝑟𝑜𝑣𝑎𝑑𝑜
         • Considere que 𝑀é𝑑𝑖𝑎 𝑓𝑖𝑛𝑎𝑙 = A1 (até 3 pontos) + A2 (até 3 pontos) + A3 (até 4 pontos)
-        16) Uma empresa decide presentear seus funcionários com um bônus de Natal. O valor é definido como segue:
-        • 20% do salário para os funcionários homens com mais de quinze anos de casa;
-        • 25% do salário para as funcionárias mulheres com mais de dez anos de casa;
-        • R$ 200,00 para os demais que não se encaixaram nas categorias anteriores.
-        17) Elabore um programa que recebe o sexo, o tempo de casa e o salário de um funcionário e exibe o valor total que o funcionário receberá no Natal (salário + bônus).
         */
     }
 }
