@@ -1,4 +1,4 @@
-package com.mycompany.lista02;
+package com.mycompany.lista02_descricao_exercicios;
 import javax.swing.JOptionPane;
 
 /* @author rodrigo_vinicius_amaral */
