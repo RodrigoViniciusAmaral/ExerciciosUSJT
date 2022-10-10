@@ -1,5 +1,4 @@
 package com.mycompany.imprimirpares;
-import javax.swing.JOptionPane;
 
 /* @author rodrigo_vinicius_amaral */
 /* Usando o while imprima os números pares de 1 a 50, 
