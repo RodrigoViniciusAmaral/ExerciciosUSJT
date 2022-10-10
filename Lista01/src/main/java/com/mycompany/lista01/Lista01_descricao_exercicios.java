@@ -1,5 +1,5 @@
 
-package com.mycompany.lista01;
+package com.mycompany.lista01_descricao_exercicios;
 
 /* @author rodrigo_vinicius_amaral */
 public class Lista01_descricao_exercicios {
