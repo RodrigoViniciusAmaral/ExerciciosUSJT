@@ -1,14 +1,12 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Project/Maven2/JavaApp/src/main/java/${packagePath}/${mainClassName}.java to edit this template
- */
-
 package com.mycompany.imprimirpares;
+import javax.swing.JOptionPane;
 
-/**
- *
- * @author rodrigo_pc
- */
+/* @author rodrigo_vinicius_amaral */
+/* Usando o while imprima os números pares de 1 a 50, 
+    o contador deve ser inicializado com o valor 1 
+    é incrementado 1 ao contador a cada repetição do bloco de código 
+*/
+
 public class ImprimirPares {
      public static void main(String[] args) {
         int i = 0;
