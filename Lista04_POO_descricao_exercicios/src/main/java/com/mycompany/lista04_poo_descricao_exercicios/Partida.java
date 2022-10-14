@@ -1,13 +1,17 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package com.mycompany.lista04_poo_descricao_exercicios;
+import javax.swing.JOptionPane;
 
-/**
- *
- * @author rodrigo_pc
- */
+/* @author rodrigo_vinicius_amaral */
+
+
 public class Partida {
-    
+    public static void DefinirPartida()
+    {
+        String time1 = JOptionPane.showInputDialog("Digite o nome do primeiro time: ");
+        String time2 = JOptionPane.showInputDialog("Digite o nome do segundo time: ");
+
+        PartidaModel partidai = new PartidaModel(time1, time2);
+
+        partidai.exibirMensagem();
+    }  
 }
